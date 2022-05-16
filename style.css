@@ -6,6 +6,7 @@ html, body {
 	background: #000000;
 	color: white;
 }
+
 html, body, canvas {
 	touch-action: none;
 	touch-action-delay: none;
